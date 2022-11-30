@@ -1,3 +1,9 @@
+\* Altliq Hardware - Data Cleaning
+ 
+skills used : JOIN, DIstinct, COUNT and so on
+
+*/
+
 SELECT * FROM sales.transactions;
 
 /Total Records in transaction /
